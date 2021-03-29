@@ -1,3 +1,5 @@
+## this is a line from rstudio via git
+
 library(data.table)
 library(lubridate)
 mp = fread('C:\\Users\\arik\\Documents\\money_please\\^GSPC.csv')
